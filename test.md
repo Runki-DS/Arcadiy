@@ -1,3 +1,4 @@
+html
 <div class="tabs">
   <button class="tablink" onclick="openTab(event, 'Tab1')">Вкладка 1</button>
   <button class="tablink" onclick="openTab(event, 'Tab2')">Вкладка 2</button>
